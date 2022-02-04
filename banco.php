@@ -14,5 +14,3 @@
     echo $primeiraConta->recuperaSaldo() . PHP_EOL;
     // echo "Número de contas: " . Conta::$numContas;
     echo "número de contas: " . Conta::exibeNumContas();
-
-
